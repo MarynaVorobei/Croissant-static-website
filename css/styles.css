@@ -1,0 +1,25 @@
+body {
+  background: #fef4bb;
+}
+
+h1,
+p,
+footer {
+  text-align: center;
+}
+
+p {
+  line-height: 1.5;
+}
+
+footer a {
+  margin: 0 10px;
+  color: green;
+}
+
+.croissant-img {
+  border-radius: 10px;
+  max-width: 100%;
+  display: block;
+  margin: 30px auto;
+}
